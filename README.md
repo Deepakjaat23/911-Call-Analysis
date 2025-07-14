@@ -58,3 +58,21 @@ To extract meaningful insights from real-world 911 call data to help public safe
 3. Run the Jupyter notebook EDA.py or open in VS Code
 
 4. Open Dashboard.pbix in Power BI Desktop
+
+
+📚 Report
+Final detailed report is available in the report/ folder.
+
+👥 Team Members
+Deepak Jandu – 12316722
+
+Vishnu – 12307182
+
+Sourav – 12326825
+
+Soam Parkash – 12301024
+
+Somu akash Reddy - 12313182
+
+🏁 Conclusion
+This project provided hands-on experience in applying the data science lifecycle to a real-world problem with societal value. It combines the power of data exploration, statistical validation, and machine learning to deliver insights useful for emergency response planning.
